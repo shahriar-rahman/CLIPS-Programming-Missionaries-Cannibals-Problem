@@ -1,7 +1,11 @@
 # **CLIPS Programming based on Cannibals and Missionaries Problem**
 A Knowledge base for solving various queries derived from an AI-based Decision Tree. 
 
-## Abstract
+<div align="center">
+    <img width="65%%" src="img/clipslogo.png" alt="clips.png" >
+</div>
+
+## About
 The C Language Integrated Production System, also known as CLIPS, is a public domain software tool mostly applied in Artificial Intelligence (AI) Systems. The concept of this project is to solve family tree-based problems with an acyclic structure of nodes. Given a set of rules and facts, the objective is to create a knowledge base for the following query:
 
 A classic AI problem where the point is to get three cannibals and three missionaries across a stream with a boat that can only hold two people. If the cannibals outnumber 
