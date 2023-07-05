@@ -9,7 +9,7 @@
 ;;;     the missionaries on either side of the stream, 
 ;;      then the cannibals will eat the missionaries. 
 ;;;
-;;;     CLIPS Version 6.01 Example
+;;;     
 ;;;
 ;;;     To execute, merely load, reset and run.
 ;;;======================================================
