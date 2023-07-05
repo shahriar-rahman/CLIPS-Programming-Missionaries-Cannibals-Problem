@@ -3,6 +3,10 @@ A Knowledge base for solving various queries derived from an AI-based Decision T
 
 ![alt text](https://github.com/shahriar-rahman/CLIPS-Programming-Missionaries-Cannibals-Problem/blob/main/img/clipslogo.png)
 
+<div align="center">
+    <img width="50%%" src="img/clipslogo.png" alt="clips.png" >
+</div>
+
 ## About
 The C Language Integrated Production System, also known as CLIPS, is a public domain software tool mostly applied in Artificial Intelligence (AI) Systems. The concept of this project is to solve family tree-based problems with an acyclic structure of nodes. Given a set of rules and facts, the objective is to create a knowledge base for the following query:
 
