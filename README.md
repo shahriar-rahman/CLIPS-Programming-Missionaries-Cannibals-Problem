@@ -1,10 +1,8 @@
 # **CLIPS Programming based on Cannibals and Missionaries Problem**
 A Knowledge base for solving various queries derived from an AI-based Decision Tree. 
 
-![alt text](https://github.com/shahriar-rahman/CLIPS-Programming-Missionaries-Cannibals-Problem/blob/main/img/clipslogo.png)
-
 <div align="center">
-    <img width="50%%" src="img/clipslogo.png" alt="clips.png" >
+    <img width="65%%" src="img/clipslogo.png" alt="clips.png" >
 </div>
 
 ## About
