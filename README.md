@@ -1,4 +1,4 @@
-# **Clips Programming for Cannibals and Missionaries Problem**
+# **CLIPS Programming for Cannibals and Missionaries Problem**
 A Knowledge base for solving various queries derived from an AI-based Decision Tree. 
 
 ## Abstract
